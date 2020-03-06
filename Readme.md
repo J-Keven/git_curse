@@ -52,5 +52,3 @@ $ git reset --hard
 > Este é o reset mais hardcore, pois ele exclui o commit e as alterações realizadas no arquivo por esse commit.
 
 >>>> OBS: Para cada um dos commando reset é necessário informar o HASH da versão que vc deseja voltar, lembrando que as alteraçõe e exclusões serão realizadas em todos os commits feitos depois do commit informado.
-
-[@Jhonnas Nunes](https://github.com/J-Keven)
