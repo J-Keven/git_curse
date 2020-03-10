@@ -64,3 +64,6 @@ $ git checkout "Name"
 
 $ git branch -D "Name"
 > Deleta uma branch
+
+$ git merge "Name_branch"
+> Junta Duas Branchs
