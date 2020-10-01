@@ -54,7 +54,7 @@ $ git reset --hard
 >>OBS: Para cada um dos commando reset é necessário informar o HASH da versão que vc deseja voltar, lembrando que as alteraçõe e exclusões serão realizadas em todos os commits feitos depois do commit informado.$
 
 $ git checkout -b "Name"
-> Cria uma branch 
+> Cria uma branch e muda para ela automaticamente.
 
 $ git branch
 > Exibe todos os branch que vc possue naquele projeto, e coloca um * na branch que vc esta no momento.
