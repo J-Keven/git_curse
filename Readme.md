@@ -67,3 +67,6 @@ $ git branch -D "Name"
 
 $ git merge "Name_branch"
 > Junta Duas Branchs
+
+$ git push
+> O comando git push é usado para enviar conteúdo do repositório local(sua máquina) para um repositório remoto. "Push" é como os commits do repositório local são enviados a um repositório remoto. É a contraparte para git fetch: buscar (fetch) baixa commits para ramificações locais, e push envia commits para ramificações remotas.
